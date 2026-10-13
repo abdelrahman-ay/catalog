@@ -1,0 +1,70 @@
+{
+  "name": "Zenith BotServices",
+  "location": "Cai,EG",
+  "whatsappNumber": "+201283430167",
+  "logoUrl": "/images/8.png",
+  "currency": {
+    "code": "EGP",
+    "symbol": "E£"
+  },
+  "promoBanners": [
+    "/api/images/promos/Telegram-Bot-Promo.webp",
+    "/api/images/promos/Whatsapp-Bot-Promo.webp",
+    "/api/images/promos/Catalog-Promo.webp"
+  ],
+  "promoLinks": [
+    {
+      "type": "promo",
+      "target": "TgBot",
+      "title": "Telegram Bots",
+      "subtitle": "Live Telegram bots for instant replies"
+    },
+    {
+      "type": "promo",
+      "target": "WaBot",
+      "title": "Whatsapp Bots",
+      "subtitle": "Live Whatsapp bots for instant replies"
+    },
+    {
+      "type": "promo",
+      "target": "Active",
+      "title": "Catalog",
+      "subtitle": "Design instant catalogue for products and services"
+    }
+  ],
+  "socialLinks": {
+    "instagram": "https://instagram.com/ZenithNights",
+    "facebook": "https://facebook.com/ZenithNights"
+  },
+  "mapEmbedUrl": "https://maps.app.goo.gl/8vht3FVJ6cF87caN6",
+  "trustpilotUrl": "https://www.trustpilot.com/review/whatalog.com",
+  "googleMapsUrl": "https://www.google.com/maps/search/Cairo,+Egypt",
+  "businessHours": "Saturday - Wednesday, 9:00 AM — 6:00 PM",
+  "deliveriesInfo": "Support hours 24/7",
+  "delivery": {
+    "mode": "none"
+  },
+  "donationUrl": "https://tppay.me/mquz2zh8",
+  "messaging": {
+    "defaultChannel": "whatsapp",
+    "channels": {
+      "whatsapp": {
+        "enabled": true,
+        "number" : "+201283430167"
+      },
+      "telegram": {
+        "enabled": true,
+        "username": "abdelrahman_a.y"
+      },
+      "email": {
+        "enabled": true,
+        "address": "abdelrahman20012016@gmail.com"
+      }
+    }
+  },
+  "googleSheets": {
+    "sheetId": "",
+    "apiKey": "",
+    "range": "Sheet1!A:Z"
+  }
+}
